@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: com.qcloud:cos_api-bundle:5.6.19:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/qcloud/cos_api-bundle/5.6.19/cos_api-bundle-5.6.19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/qcloud/cos_api-bundle/5.6.19/cos_api-bundle-5.6.19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/qcloud/cos_api-bundle/5.6.19/cos_api-bundle-5.6.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
